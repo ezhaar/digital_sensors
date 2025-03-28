@@ -1,0 +1,3 @@
+{
+  "gnss": "id,gga utc timestamp,latitude,latitude hemisphere,longitude,longitude hemisphere,quality,satellites in use,horizontal dilution of precision,orthometric height,orthometric height unit,geoid separation,geoid separation unit,differential gps age,station and checksum,id,heading in degrees,true north and checksum,id,zda utc timestamp,day,month,year,hour offset from gmt,minute offset from gmt and checksum"
+}

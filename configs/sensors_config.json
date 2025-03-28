@@ -1,0 +1,27 @@
+{
+  "usv": "usv1",
+  "sensors": {
+    "gnss": {
+      "ip_address": "10.0.1.104",
+      "port": 28786,
+      "sample_rate_hz": 1,
+      "timeout": 60
+    },
+    "rain": {
+      "ip_address": "10.0.1.100",
+      "port": "4004",
+      "timeout": 1500
+    },
+    "weather": {
+      "ip_address": "10.0.1.100",
+      "port": "4002",
+      "timeout": 60
+    },
+    "wave": {
+      "ip_address": "10.0.1.100",
+      "port": "4001",
+      "sample_rate_hz": 1,
+      "timeout": 60
+    }
+  }
+}
