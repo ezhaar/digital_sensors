@@ -1,4 +1,0 @@
-sensor name, ip address, port, timeout [s]
-gnss,127.0.0.1,1000,5
-rain,127.0.0.1,1001,5
-weather,127.0.0.1,1002,5
